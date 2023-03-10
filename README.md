@@ -15,11 +15,11 @@ Names are stored in local storage and persist between sessions
 ## Installation
 Clone the repository: git clone https://github.com/isreallee82/name-list-app.git
 
-make sure you have node installed and npm
--- Navigate to the project directory: cd name-list-app
--- Install dependencies: npm install
--- Start the app: npm start
--- Open the app in your browser at http://localhost:3000
+# Make sure you have node installed and npm
+# Navigate to the project directory: cd name-list-app
+# Install dependencies: npm install
+# Start the app: npm start
+# Open the app in your browser at http://localhost:3000
 
 ## Usage
 Enter a comma-separated list of names in the input field and click "Add Names"
