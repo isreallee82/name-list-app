@@ -46,7 +46,7 @@ function App() {
   }
 
   return (
-    <div className='flex flex-col items-center justify-center container mx-auto text-base'>
+    <div className='flex flex-col items-center justify-center container mx-auto text-base '>
       <form onSubmit={handleAddNames} className='my-4'>
         <div className='text-sm'>
           <label className='block mb-2'>
