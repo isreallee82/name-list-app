@@ -70,7 +70,7 @@ function App() {
           </button>
         </div>
       </form>
-      <div className='p-2 m-4 md:container md:mx-auto rounded-2xl items-center ring-stone-500 '>
+      <div className='p-2 md:m-2 xs:m-4 md:container md:mx-auto justify-center xs:mx-10 rounded-2xl items-center ring-stone-500 '>
         {names.map((name, index) => (
           <div
             key={index}
