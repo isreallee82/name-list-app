@@ -12,6 +12,8 @@ Edit existing names
 Delete names from the list
 Names are stored in local storage and persist between sessions
 
+Other commented code is an example of backend i.e getting names data from a mongo db -- you will see backend folder
+
 ## Installation
 Clone the repository: git clone https://github.com/isreallee82/name-list-app.git
 
